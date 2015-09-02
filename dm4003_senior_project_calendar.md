@@ -22,7 +22,7 @@
     <td>Wed, Jan 28</td>
     <td>
         <ul>
-         <li><strong>Read the <a href="dm4003_senior_project_syllabus.md">syllabus</a></strong> and supporting docs on github<li>
+         <li><strong>Read the <a href="dm4003_senior_projects_syllabus.md">syllabus</a></strong> and supporting docs on github<li>
         <li>In-Class Exercise (Post-its): List 1 to 5 learning goals and/or expectations for this class. One per post-it.</li>
         <li>In-Class Exercise (Post-its): What did you like and didn’t like from previous classes and why? One per post-it.</li>
             <ul>
