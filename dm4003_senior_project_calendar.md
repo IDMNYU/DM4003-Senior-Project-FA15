@@ -3,13 +3,13 @@
 ![NYU](http://ws2.polishedsolid.com/de/nyu_soe_logo.png)
 #### Integrated Digital Media • Technology, Culture & Society Department 
 
+    DM-UY 4003 Senior Project
     Katherine Bennett• katherine.bennett@nyu.edu • Fall 2015 
     Wednesdays • 4:30-6:20PM • 2MTC MAGNET 811 • 3 credit hrs
 
 ---
 
 ## CALENDAR
-
 
 <table>
 <tr>
@@ -31,7 +31,7 @@
             <li>Classmates</li>
             <li>Classroom Environment</li>
             <li>Resources (Software, Books, etc.)</li>
-            </ul>
+        </ul>
     
         <li>Discuss brainstorming techniques for coming up with project idea:
             <ul>
@@ -39,6 +39,7 @@
             <li><a href="http://www.mindtools.com/pages/article/newCT_02.htm" target="_blank">SCAMPER</a> Technique</li>
             <li><a href="dm4003_senior_project_card_sorting.md" target="_blank">Card Sorting</a> Technique</li>
             </ul>
+        
         <li>Overview of <a rhref="http://personalkanban.com" target="_blank">Personal Kanban</a>, a visual representation of your milestones
     <ul>
     <li>I recommend using post-its so you can move them around
@@ -47,10 +48,10 @@
     </ul>
         <li><a href="http://www.youtube.com/watch?v=9l5JhBL1VSA" target="_blank">SCREENING: Troy Gua for Beautiful Nights</a> 5:00-6:00 &amp; 8:27-8:43</li>
         <li><a href="http://www.ted.com/talks/gary_vaynerchuk_do_what_you_love_no_excuses?language=en" target="_blank">SCREENING: Gary Vaynerchuk's Do What You Love (No excuses!)</a></li> </ul>
-
-        </ul>
-</td>  
+    </td>  
 </tr>
+
+
 <tr>
     <td>Wed, Sept 09</td>
     <td>
@@ -67,6 +68,7 @@
     </ul>
     </td> 
 </tr>
+
 <tr>
     <td>Tues, Sept 15</td>
     <td><strong><i>LAST DAY OF DROP/ADD</i></strong> (and not receive a grade of 'W')</td> 
@@ -94,12 +96,13 @@
     <li>Discuss assigned chapters in <i>Do The Work!</i></strong> by Steven Pressfield</li>
     <li><a href="dm4003_senior_project_website.md">Personal Kanban / Weekly Project Website Updates</a></li>
     <li>Revise your cover letter and resume</li>
-      </ul></td> 
+    </ul>
+    </td> 
 </tr>
 
 <tr>
     <td>Wed, Sept 23</td>
-    <td>IN CLASS WORKSHOP: Share your Resume and Cover Letter with classmates for feedback. Bring at least 4 printed copies to class.<br><br><a href="dm4003_senior_project_website.md">Personal Kanban / Weekly Project Website Updates</a><br></td> 
+    <td>IN CLASS WORKSHOP: Share your Resume and Cover Letter with classmates for feedback. Bring at least 4 printed copies to class.<br><a href="dm4003_senior_project_website.md">Personal Kanban / Weekly Project Website Updates</a><br></td> 
     <td> Have 10 research/references/influences on your process site <br></td>
     <td> Have 7 resource references on your process site <br></td>
 </tr>
@@ -108,7 +111,8 @@
      <td><a href="dm4003_senior_project_website.md">Personal Kanban / Weekly Project Website Updates</a><br></td> 
      <td> Draft of milestone calendar due, including subtasks. Submit PDF via Process site. </td><br>
     <td> Draft of competitive and comparitive analysis due. Submit PDF via Process site. </td><br>
-    <td>IN CLASS WORKSHOP: Share your Portfolio Website Draft with classmates for feedback.<br><br><a href="dm4003_senior_project_website.md">Personal Kanban / Weekly Project Website Updates</a><br></td> 
+    <td>IN CLASS WORKSHOP: Share your Portfolio Website Draft with classmates for feedback.<br><br><a href="dm4003_senior_project_website.md">Personal Kanban / Weekly Project Website Updates</a><br>
+    </td> 
     
 </tr>
 <tr>
@@ -130,12 +134,13 @@
     <td><strong>Midterm Self Assessment Rubric Due</strong> (pdf on basecamp under files if your copy is lost)<br><strong>Class Critique: Senior Project – Alpha Version Due</strong><br>  </td> 
 </tr>
 
-
-<td> Wed, Oct 28 </td>
-<td>
+<tr>
+    <td> Wed, Oct 28 </td>
+    <td>
     <a href="dm4003_senior_project_website.md">Personal Kanban / Weekly Project Website Updates</a></td>
     <li><strong>Create or update a linkedin account</strong> and populate as much content as possible (post to basecamp as a message with your name as a category)</li>
     <li><strong>Identify 2 to 3 companies or opportunities you'd like to pursue post graduation along with the specific position(s) you'd like to apply for</strong> (post to basecamp as a message with your name as a category)</li>
+    </td>
 </tr>
 
 <tr>
@@ -166,7 +171,8 @@
     <td>Wed, Dec 2</td>
     <td>Make sure you have <strong>scheduled a career coaching appointment with the Wasserman Center</strong> BEFORE this date to receive feedback on your cover letter and resume. To schedule a 30-minute appointment with a career counselor, log in to NYU CareerNet. Under "Shortcuts" on the right hand side, select "Request a Career Coaching Appointment."<br><br><strong>Class Critique: Final Resume and Cover Letter Due (post PDF on your class website from about or contact)<br>
     Class Critique: Final LinkedIn Profile Due (post link from your class website from about or contact.)<br>
-    Class Critique: <a href="dm4003_senior_project_end_of_semester_deliverables.md">Final Portfolio Website Due</a></strong></td> 
+    Class Critique: <a href="dm4003_senior_project_end_of_semester_deliverables.md">Final Portfolio Website Due</a></strong>
+    </td> 
 </tr>
 <tr>
     <td>Wed, Dec 9</td>
