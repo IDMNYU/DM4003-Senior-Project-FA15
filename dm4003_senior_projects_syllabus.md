@@ -4,9 +4,9 @@
 #### Integrated Digital Media • Technology, Culture & Society Department 
 
     Katherine Bennett • katherine.bennett@nyu.edu • Fall 2015 
-    Wednesdays • 4:30-6:20PM • 2MTC MAGNET 884 • 3 credit hrs
+    Wednesdays • 4:30-6:20PM • 2MTC MAGNET 811 • 3 credit hrs
     Office hours by appointment or directly before class 
-    Office: 2MTC MAGNET 882   
+    Office: 2MTC MAGNET 884   
    
 ###Github Repository: http://github.com/IDMNYU/DM4003-Senior-Project-FA15
 
@@ -88,7 +88,7 @@ Be prepared to present and discuss your work at your appointed time. Students sh
 
 Class is a community. I expect you to maintain your constant presence in the class during class periods, even if you are not currently meeting with me.  This includes is you have already met with me. You are to bring your materials to work on your senior studio project during senior studio. Use the classroom as a studio space. It is yours and a privilege among seniors. Make the most of it.
 
-* **Class critiques**<br>
+* **Class critiques**
 Class critiques will be held 1 senior every Wednesday, and will consist of the professor, ALL seniors, and, at times, outside critics. 
 
      Each presentation will consist of 
@@ -242,8 +242,9 @@ The following books are available for purchase in the NYU library. I highly sugg
 * Analog or Digital Calendar
 * [Personal Kanban] (http://www.personalkanban.com)
 * [Mural.ly](https://mural.ly/)
-* [RescueTime] (http://rescuetime.com)
+* [RescueTime] (hhttps://www.rescuetime.com/ref/476059)
 * [Zapier] (http://zapier.com) (optional)
+
 
 ### RECOMMENDED RESOURCES
 
