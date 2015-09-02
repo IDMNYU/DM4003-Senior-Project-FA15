@@ -210,7 +210,7 @@ Any printed assignments should always contain the following info, be saved as a 
 * Your first and last name
 * DM 4003 Senior Project in Digital Media
 * Spring 2015
-* Duff
+* Bennett
 * Title of project or assignment
 
 **File Naming**
