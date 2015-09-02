@@ -102,9 +102,14 @@
 
 <tr>
     <td>Wed, Sept 23</td>
-    <td>IN CLASS WORKSHOP: Share your Resume and Cover Letter with classmates for feedback. Bring at least 4 printed copies to class.<br><a href="dm4003_senior_project_website.md">Personal Kanban / Weekly Project Website Updates</a><br></td> 
-    <td> Have 10 research/references/influences on your process site <br></td>
-    <td> Have 7 resource references on your process site <br></td>
+    <td>
+    <ul>
+    <li>IN CLASS WORKSHOP: Share your Resume and Cover Letter with classmates for feedback. Bring at least 4 printed copies to class.<br></li>
+    <li><a href="dm4003_senior_project_website.md">Personal Kanban / Weekly Project Website Updates</a><br></li>
+    <li> Have 10 research/references/influences on your process site <br></li>
+    <li> Have 7 resource references on your process site </li>
+    </ul>
+    </td>
 </tr>
 <tr>
     <td>Wed, Sept 30</td>
