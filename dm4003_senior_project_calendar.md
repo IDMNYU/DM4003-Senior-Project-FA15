@@ -19,7 +19,7 @@
 </tr>
 
 <tr>
-    <td>Wed, Jan 28</td>
+    <td>Wed, Sept 2</td>
     <td>
         <ul>
          <li><strong>Read the <a href="dm4003_senior_projects_syllabus.md">syllabus</a></strong> and supporting docs on github. Q&amp;A</li>
@@ -46,36 +46,33 @@
     <li>Digital Representation of your milestones using kanbanery.com.</li>
     </ul>
         <li><a href="http://www.youtube.com/watch?v=9l5JhBL1VSA" target="_blank">SCREENING: Troy Gua for Beautiful Nights</a> 5:00-6:00 &amp; 8:27-8:43</li>
-        <li><a href="http://www.ted.com/talks/gary_vaynerchuk_do_what_you_love_no_excuses?language=en" target="_blank">SCREENING: Gary Vaynerchuk's Do What You Love (No excuses!)</li> </ul>
+        <li><a href="http://www.ted.com/talks/gary_vaynerchuk_do_what_you_love_no_excuses?language=en" target="_blank">SCREENING: Gary Vaynerchuk's Do What You Love (No excuses!)</a></li> </ul>
 
-        Homework:
-        <li><strong>Draft a resume</strong> and post a pdf (firstname_lastname_resume.pdf) as an attachment to a message on basecamp with your name as a category.)</li>
-        <li><strong>Draft a cover letter</strong> and post pdf (firstname_lastname_cover_letter.pdf) as an attachment to a message on basecamp with your name as a category.)</li>
-        <li><strong>Create or update a linkedin account</strong> and populate as much content as possible (post to basecamp as a message with your name as a category)</li>
-
-        <li><strong>Identify 2 to 3 companies or opportunities you'd like to pursue post graduation along with the specific position(s) you'd like to apply for</strong> (post to basecamp as a message with your name as a category)</li>
-        <li>Populate a calendar (google, iCal, or non-digital) with due dates for this class</li>
         </ul>
 </td>  
 </tr>
 <tr>
-    <td>Wed, Feb 04</td>
+    <td>Wed, Sept 09</td>
     <td>
     <ul>
+    <li>Populate a calendar (google, iCal, or non-digital) with due dates for this class</li>
+    <li> Read last semeseter's Cohort Letters. Write a 300 essay reflecting on their advice and post to your Process site.  </li>
     <li><strong>Install <a href="http://rescuetime.com" target="_blank">RescueTime</a></strong> and populate categories and productivity values</li>
-    <li><strong>Set up <a href="dm4003_senior_project_website.md">dedicated process website</a></strong></li>
+    <li><strong>Set up <a href="dm4003_senior_project_website.md">dedicated process website</a>Post a link to it on Basecampx</strong></li>
     <li><strong>Class Critique: 10 Minute Project Idea Presentations from all students in the class</strong><br>Use the <a href="dm4003_senior_project_plan.md">project plan</a> sections as a template for your visual presentation (EXCEPT FOR Design, Development, and Project Versions). The project plan is just a guideline for information for your presentation. You should present a visual presentation using powerpoint, keynote, prezi, pdf, video, image files, etc.</li>
-    
-    <li>Create Groups A and B and Individual Meeting Order Within Those Groups</li>
+
+    <li><strong>Draft a resume</strong> and post a pdf (firstname_lastname_resume.pdf) as an attachment to a message on basecamp with your name as a category.)</li>
+    <li><strong>Draft a cover letter</strong> and post pdf (firstname_lastname_cover_letter.pdf) as an attachment to a message on basecamp with your name as a category.)</li>
+
     </ul>
     </td> 
 </tr>
 <tr>
-    <td>Mon, Feb 09</td>
-    <td><strong><i>LAST DAY OF DROP/ADD</i></strong> (to receive 100% of tuition &amp; fees)</td> 
+    <td>Tues, Sept 15</td>
+    <td><strong><i>LAST DAY OF DROP/ADD</i></strong> (and not receive a grade of 'W')</td> 
 </tr>
 <tr>
-    <td>Wed, Feb 11</td>
+    <td>Wed, Sept 16</td>
     <td>
     <ul>
     <li><strong>Post your process website URL</strong> on basecamp as a comment to the message I will post.</li>
@@ -90,82 +87,108 @@
         <li>2. Think Process, Not Product, p. 30-43</li>
         <li>3. Share Something Small Every Day, p. 44-69</li>
         </ul>
-    <li><strong>Class Critique: 10 Minute Project Status Presentations from all students in the class (IF your project has changed) in lieu of your individual meeting</li>
+    <li><strong>Class Critique: 10 Minute Project Status Presentations from all students in the class (IF your project has changed)</li>
     <li><strong><a href="dm4003_senior_project_plan.md">Project Plan 1st Draft DUE</a></strong></li>
     <li>Discuss the <i>Mac is Not a Typewriter</i> Excerpts</li>
     <li>Discuss assigned chapters in <i>Show Your Work!</i></li>
     <li>Discuss assigned chapters in <i>Do The Work!</i></strong> by Steven Pressfield</li>
-    <li>Confirm Groups A and B Meeting Times and Project Critique Schedule</li>
     <li><a href="dm4003_senior_project_website.md">Personal Kanban / Weekly Project Website Updates</a></li>
+    <li>Revise your cover letter and resume</li>
       </ul></td> 
 </tr>
+
 <tr>
-    <td>Tue, Feb 17</td>
-    <td><strong><i>LAST DAY TO DROP</i></strong> (and not receive a grade of 'W')</td> 
+    <td>Wed, Sept 23</td>
+    <td>IN CLASS WORKSHOP: Share your Resume and Cover Letter with classmates for feedback. Bring at least 4 printed copies to class.<br><br><a href="dm4003_senior_project_website.md">Personal Kanban / Weekly Project Website Updates</a><br></td> 
+    <td> Have 10 research/references/influences on your process site <br></td>
+    <td> Have 7 resource references on your process site <br></td>
 </tr>
 <tr>
-    <td>Wed, Feb 18</td>
-    <td>IN CLASS WORKSHOP: Share your Resume and Cover Letter with classmates for feedback. Bring at least 4 printed copies to class.<br><br><a href="dm4003_senior_project_website.md">Personal Kanban / Weekly Project Website Updates</a><br><strong><a href="dm4003_senior_project_groups.md">Group A: Individual Meetings</a></strong></td> 
+    <td>Wed, Sept 30</td>
+     <td><a href="dm4003_senior_project_website.md">Personal Kanban / Weekly Project Website Updates</a><br></td> 
+     <td> Draft of milestone calendar due, including subtasks. Submit PDF via Process site. </td><br>
+    <td> Draft of competitive and comparitive analysis due. Submit PDF via Process site. </td><br>
+    <td>IN CLASS WORKSHOP: Share your Portfolio Website Draft with classmates for feedback.<br><br><a href="dm4003_senior_project_website.md">Personal Kanban / Weekly Project Website Updates</a><br></td> 
+    
 </tr>
 <tr>
-    <td>Wed, Feb 25</td>
-    <td>IN CLASS WORKSHOP: Share your Portfolio Website Draft with classmates for feedback.<br><br><a href="dm4003_senior_project_website.md">Personal Kanban / Weekly Project Website Updates</a><br><strong><a href="dm4003_senior_project_groups.md">Group B: Individual Meetings</a></strong></td> 
+    <td>Wed, Oct 07</td>
+    <td><a href="dm4003_senior_project_website.md">Personal Kanban / Weekly Project Website Updates</a><br></td> 
 </tr>
+
 <tr>
-    <td>Wed, Mar 04</td>
-    <td><a href="dm4003_senior_project_website.md">Personal Kanban / Weekly Project Website Updates</a><br><strong><a href="dm4003_senior_project_groups.md">Group A: Individual Meetings</a></strong></td> 
-</tr>
-<tr>
-    <td>Wed, Mar 11</td>
+    <td>Wed, Oct 14</td>
     <td><strong>Read Do The Work!</strong> by Steven Pressfield, write a reading response on your process website, and be prepared to discuss
     <ul>
     <li>2 Middle, p. 70-85</li>
     </ul>
     In-Class Exercise (Post-its) re: Do The Work!<br>
-    <a href="dm4003_senior_project_website.md">Personal Kanban / Weekly Project Website Updates</a><br><strong><a href="dm4003_senior_project_groups.md">Group B: Individual Meetings</a></strong></td> 
+    <a href="dm4003_senior_project_website.md">Personal Kanban / Weekly Project Website Updates</a><br></td> 
+
+<tr>
+    <td>Wed, Oct 21</td>
+    <td><strong>Midterm Self Assessment Rubric Due</strong> (pdf on basecamp under files if your copy is lost)<br><strong>Class Critique: Senior Project – Alpha Version Due</strong><br>  </td> 
+</tr>
+
+
+<td> Wed, Oct 28 </td>
+<td>
+    <a href="dm4003_senior_project_website.md">Personal Kanban / Weekly Project Website Updates</a></td>
+    <li><strong>Create or update a linkedin account</strong> and populate as much content as possible (post to basecamp as a message with your name as a category)</li>
+    <li><strong>Identify 2 to 3 companies or opportunities you'd like to pursue post graduation along with the specific position(s) you'd like to apply for</strong> (post to basecamp as a message with your name as a category)</li>
 </tr>
 
 <tr>
-    <td>Wed, Mar 18</td>
-    <td><strong><i>Spring Break - NO CLASS</i></strong></td> 
-</tr>
-
-<tr>
-    <td>Wed, Mar 25</td>
-    <td><strong>Midterm Self Assessment Rubric Due</strong> (pdf on basecamp under files if your copy is lost)<br><strong>Class Critique: Senior Project – Alpha Version Due</strong><br>
-    <a href="dm4003_senior_project_website.md">Personal Kanban / Weekly Project Website Updates</a></td> 
-</tr>
-<tr>
-    <td>Wed, Apr 1</td>
-    <td><strong>Class Critique: Senior Project – Alpha Version Due continued</strong><br><a href="dm4003_senior_project_website.md">Personal Kanban / Weekly Project Website Updates</a><br>Schedule midterm review individual meetings.<br><strong>Begin midterm review individual meetings.</strong></td>
-</tr>
-<tr>
-    <td>Fri, Apr 3</td>
+    <td>Tues, Nov 3</td>
     <td><strong><i>LAST DAY TO WITHDRAW</i></strong></td> 
 </tr>
 <tr>
-    <td>Fri, Apr 10, Mon 13, 14, or 15</td>
-    <td><strong>Midterm review individual meetings to be scheduled.</strong></td>
+    <td>Wed, Nov 4</td>
+   <td>
+    <a href="dm4003_senior_project_website.md">Personal Kanban / Weekly Project Website Updates</a></td> 
 </tr>
 <tr>
-    <td>Wed, Apr 8</td>
+    <td>Wed, Nov 11</td>
+    <td><strong>Class Critique: <a href="dm4003_senior_project_groups.md"></a> 10 Minute Project Presentations w/ Beta Version Demo Due</strong><br>
+    <a href="dm4003_senior_project_website.md">Personal Kanban / Weekly Project Website Updates</a><br>Schedule midterm review individual meetings.<br><strong>Begin midterm review individual meetings.</strong></td>
+</tr>
+
+<tr>
+    <td>Wed, Nov 18 </td>
      <td><strong>Class Critique: 10 Minute Project Presentations Drafts from all students</strong>
      <br>Use the <a href="dm4003_senior_project_plan.md">project plan</a> sections as a template for your visual presentation. The project plan is just a guideline for information for your presentation. You should present a visual presentation using powerpoint, keynote, prezi, pdf, video, image files, etc.<br><strong></td>
 </tr>
 <tr>
-    <td>Wed, Apr 15</td>
+    <td> Wed, Nov 25 </td>
+    <td><strong>NO CLASS THANKSGIVING HOLIDAY</strong></td>
+</tr>
+<tr>
+    <td>Wed, Dec 2</td>
     <td>Make sure you have <strong>scheduled a career coaching appointment with the Wasserman Center</strong> BEFORE this date to receive feedback on your cover letter and resume. To schedule a 30-minute appointment with a career counselor, log in to NYU CareerNet. Under "Shortcuts" on the right hand side, select "Request a Career Coaching Appointment."<br><br><strong>Class Critique: Final Resume and Cover Letter Due (post PDF on your class website from about or contact)<br>
     Class Critique: Final LinkedIn Profile Due (post link from your class website from about or contact.)<br>
     Class Critique: <a href="dm4003_senior_project_end_of_semester_deliverables.md">Final Portfolio Website Due</a></strong></td> 
 </tr>
 <tr>
-    <td>Wed, Apr 22</td>
-     <td><strong>Class Critique: <a href="dm4003_senior_project_groups.md">Group A</a> 10 Minute Project Presentations w/ Beta Version Demo Due</strong><br><a href="dm4003_senior_project_website.md">Personal Kanban / Weekly Project Website Updates</a></td>
+    <td>Wed, Dec 9</td>
+     <td><a href="dm4003_senior_project_website.md">Personal Kanban / Weekly Project Website Updates</a>
+     <strong><a href="dm4003_senior_project_end_of_semester_deliverables.md">Deliverables for Senior Project Catalog Due</a><br>Class Critique: <a href="dm4003_senior_project_groups.md">Group B</a> 10 Minute Project Presentations w/ Gold Version Demo Due</strong><br>
+     </td>
 </tr>
 <tr>
-    <td>Wed, Apr 29</td>
-     <td><strong><a href="dm4003_senior_project_end_of_semester_deliverables.md">Deliverables for Senior Project Catalog Due</a><br>Class Critique: <a href="dm4003_senior_project_groups.md">Group B</a> 10 Minute Project Presentations w/ Beta Version Demo Due</strong><br><a href="dm4003_senior_project_website.md">Personal Kanban / Weekly Project Website Updates</a></td>
+    <td>Wed, Dec 23</td>
+     
+
+     <td><a href="http://goo.gl/forms/sYzLdYwNWF">Senior Exit Interview Survey</a><br>
+<a href="dm4003_senior_project_end_of_semester_deliverables.md">
+Deliverables For IDM Promotion and Archive<br>
+End of Semester Presentation (exported as pdf)<br>
+Final Self-Assessment Due (pdf)<br>
+Letter to Next Cohort Due (pdf)<br>
+Portfolio Website</a></td>
 </tr>
+
+
+
 
 <tr>
     <td>Wed, May 06</td>
@@ -193,13 +216,7 @@
 </tr>
 <tr>
 <td>Mon, May 11-Fri, May 15</td>
-<td><a href="http://goo.gl/forms/sYzLdYwNWF">Senior Exit Interview Survey</a><br>
-<a href="dm4003_senior_project_end_of_semester_deliverables.md">
-Deliverables For IDM Promotion and Archive<br>
-End of Semester Presentation (exported as pdf)<br>
-Final Self-Assessment Due (pdf)<br>
-Letter to Next Cohort Due (pdf)<br>
-Portfolio Website</a></td>
+
 </tr>
 </table>
 
