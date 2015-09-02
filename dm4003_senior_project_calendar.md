@@ -198,7 +198,7 @@
     <td>Wed, Nov 18 </td>
      <td>
      <li><strong>Class Critique: 10 Minute Project Presentations Drafts from all students</strong>
-     <br>Use the <a href="dm4003_senior_project_plan.md">project plan</a> sections as a template for your visual presentation. The project plan is just a guideline for information for your presentation. You should present a visual presentation using powerpoint, keynote, prezi, pdf, video, image files, etc.</li>><strong>
+     <br>Use the <a href="dm4003_senior_project_plan.md">project plan</a> sections as a template for your visual presentation. The project plan is just a guideline for information for your presentation. You should present a visual presentation using powerpoint, keynote, prezi, pdf, video, image files, etc.</li><strong>
       <li><a href="dm4003_senior_project_website.md">Personal Kanban / Weekly Project Website Updates</a></td>
 </tr>
 <tr>
@@ -234,9 +234,6 @@
 </tr>
 <tr>
     <td>Wed, Dec 23</td>
-    <td>
-     <ul>
-     <li>
 
      <td><a href="http://goo.gl/forms/sYzLdYwNWF">Senior Exit Interview Survey</a> </li>
      <li><a href="dm4003_senior_project_end_of_semester_deliverables.md">
