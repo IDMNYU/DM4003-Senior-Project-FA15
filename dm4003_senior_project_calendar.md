@@ -171,17 +171,20 @@
     <td>Tues, Nov 3</td>
     <td><strong><i>LAST DAY TO WITHDRAW</i></strong></td> 
 </tr>
+
 <tr>
     <td>Wed, Nov 4</td>
    <td>
-    <a href="dm4003_senior_project_website.md">Personal Kanban / Weekly Project Website Updates</a></td> <strong>Read Do The Work!</strong> by Steven Pressfield, write a reading response on your process website, and be prepared to discuss
+    <a href="dm4003_senior_project_website.md">Personal Kanban / Weekly Project Website Updates</a> 
+    <strong>Read Do The Work!</strong> by Steven Pressfield, write a reading response on your process website, and be prepared to discuss
     <ul>
-    <li>3 end p.86-98</li>
+    <li>3 end - p.86-98</li>
     </ul>
     <strong>Read Show Your Work!</strong> by Austin Kleon, write a reading response on your process website, and be prepared to discuss
     <ul>
     <li>9 Sell Out p.158-179</li>
     <li>10 Stick Around p.180-199</li>
+    </td>
     </ul>
 </tr>
 <tr>
