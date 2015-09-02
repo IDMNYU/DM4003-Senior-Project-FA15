@@ -39,7 +39,7 @@
             <li><a href="http://www.mindtools.com/pages/article/newCT_02.htm" target="_blank">SCAMPER</a> Technique</li>
             <li><a href="dm4003_senior_project_card_sorting.md" target="_blank">Card Sorting</a> Technique</li>
             </ul>
-        <li>Overview of <a href="http://personalkanban.com" target="_blank">Personal Kanban</a>, a visual representation of your milestones
+        <li>Overview of <a rhref="http://personalkanban.com" target="_blank">Personal Kanban</a>, a visual representation of your milestones
     <ul>
     <li>I recommend using post-its so you can move them around
     OR</li>
