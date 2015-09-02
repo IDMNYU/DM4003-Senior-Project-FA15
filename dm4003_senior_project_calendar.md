@@ -22,7 +22,7 @@
     <td>Wed, Jan 28</td>
     <td>
         <ul>
-         <li><strong>Read the <a href="dm4003_senior_projects_syllabus.md">syllabus</a></strong> and supporting docs on github<li>
+         <li><strong>Read the <a href="dm4003_senior_projects_syllabus.md">syllabus</a></strong> and supporting docs on github. Q&amp;A</li>
         <li>In-Class Exercise (Post-its): List 1 to 5 learning goals and/or expectations for this class. One per post-it.</li>
         <li>In-Class Exercise (Post-its): What did you like and didn’t like from previous classes and why? One per post-it.</li>
             <ul>
@@ -32,7 +32,7 @@
             <li>Classroom Environment</li>
             <li>Resources (Software, Books, etc.)</li>
             </ul>
-        <li><a href="dm4003_senior_project_syllabus.md">Syllabus</a> Q&amp;A</li>
+    
         <li>Discuss brainstorming techniques for coming up with project idea:
             <ul>
             <li><a href="http://lifehacker.com/how-to-use-mind-maps-to-unleash-your-brains-creativity-1348869811" target="_blank">Mind Map</a> (Example under files on Basecamp)</li>
@@ -46,7 +46,7 @@
     <li>Digital Representation of your milestones using kanbanery.com.</li>
     </ul>
         <li><a href="http://www.youtube.com/watch?v=9l5JhBL1VSA" target="_blank">SCREENING: Troy Gua for Beautiful Nights</a> 5:00-6:00 &amp; 8:27-8:43</li>
-        <li><a href="http://www.ted.com/talks/gary_vaynerchuk_do_what_you_love_no_excuses?language=en" target="_blank">SCREENING: Gary Vaynerchuk's Do What You Love (No excuses!)</li>
+        <li><a href="http://www.ted.com/talks/gary_vaynerchuk_do_what_you_love_no_excuses?language=en" target="_blank">SCREENING: Gary Vaynerchuk's Do What You Love (No excuses!)</li> </ul>
 
         Homework:
         <li><strong>Draft a resume</strong> and post a pdf (firstname_lastname_resume.pdf) as an attachment to a message on basecamp with your name as a category.)</li>
