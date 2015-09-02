@@ -116,10 +116,10 @@
      <td>
      <ul>
      <li><a href="dm4003_senior_project_website.md">Personal Kanban / Weekly Project Website Updates</a><br></li>
-     <li> Draft of milestone calendar due, including subtasks. Submit PDF via Process site. </li><br>
-    <li> Draft of competitive and comparitive analysis due. Submit PDF via Process site. </li><br>
-    <li>IN CLASS WORKSHOP: Share your Portfolio Website Draft with classmates for feedback.</li><br>
-    <li><a href="dm4003_senior_project_website.md">Personal Kanban / Weekly Project Website Updates</a></li><br><br>
+     <li> Draft of milestone calendar due, including subtasks. Submit PDF via Process site. </li>
+    <li> Draft of competitive and comparitive analysis due. Submit PDF via Process site. </li>
+    <li>IN CLASS WORKSHOP: Share your Portfolio Website Draft with classmates for feedback.</li>
+    <li><a href="dm4003_senior_project_website.md">Personal Kanban / Weekly Project Website Updates</a></li>
     </td> 
     
 </tr>
@@ -130,24 +130,40 @@
 
 <tr>
     <td>Wed, Oct 14</td>
-    <td><strong>Read Do The Work!</strong> by Steven Pressfield, write a reading response on your process website, and be prepared to discuss
+    <td>
+    <ul> <li><strong>Read Do The Work!</strong> by Steven Pressfield, write a reading response on your process website, and be prepared to discuss
     <ul>
     <li>2 Middle, p. 70-85</li>
     </ul>
-    In-Class Exercise (Post-its) re: Do The Work!<br>
-    <a href="dm4003_senior_project_website.md">Personal Kanban / Weekly Project Website Updates</a><br></td> 
+    </li>
+
+   <li> In-Class Exercise (Post-its) re: Do The Work!<br> </li>
+   <li>
+    <a href="dm4003_senior_project_website.md">Personal Kanban / Weekly Project Website Updates</a></li>
+    </ul>
+    </td> 
 
 <tr>
     <td>Wed, Oct 21</td>
-    <td><strong>Midterm Self Assessment Rubric Due</strong> (pdf on basecamp under files if your copy is lost)<br><strong>Class Critique: Senior Project – Alpha Version Due</strong><br>  </td> 
+   
+    <td>
+     <ul>
+    <li><strong>Midterm Self Assessment Rubric Due</strong> (pdf on basecamp under files if your copy is lost)</li>
+    <li><strong>Class Critique: Senior Project – Alpha Version Due</strong><br></li>
+     </ul> 
+     </td> 
+
 </tr>
 
 <tr>
     <td> Wed, Oct 28 </td>
     <td>
-    <a href="dm4003_senior_project_website.md">Personal Kanban / Weekly Project Website Updates</a></td>
+    <ul>
+    <li>
+    <a href="dm4003_senior_project_website.md">Personal Kanban / Weekly Project Website Updates</a></li>
     <li><strong>Create or update a linkedin account</strong> and populate as much content as possible (post to basecamp as a message with your name as a category)</li>
     <li><strong>Identify 2 to 3 companies or opportunities you'd like to pursue post graduation along with the specific position(s) you'd like to apply for</strong> (post to basecamp as a message with your name as a category)</li>
+    </ul>
     </td>
 </tr>
 
@@ -158,56 +174,7 @@
 <tr>
     <td>Wed, Nov 4</td>
    <td>
-    <a href="dm4003_senior_project_website.md">Personal Kanban / Weekly Project Website Updates</a></td> 
-</tr>
-<tr>
-    <td>Wed, Nov 11</td>
-    <td><strong>Class Critique: <a href="dm4003_senior_project_groups.md"></a> 10 Minute Project Presentations w/ Beta Version Demo Due</strong><br>
-    <a href="dm4003_senior_project_website.md">Personal Kanban / Weekly Project Website Updates</a><br>Schedule midterm review individual meetings.<br><strong>Begin midterm review individual meetings.</strong></td>
-</tr>
-
-<tr>
-    <td>Wed, Nov 18 </td>
-     <td><strong>Class Critique: 10 Minute Project Presentations Drafts from all students</strong>
-     <br>Use the <a href="dm4003_senior_project_plan.md">project plan</a> sections as a template for your visual presentation. The project plan is just a guideline for information for your presentation. You should present a visual presentation using powerpoint, keynote, prezi, pdf, video, image files, etc.<br><strong></td>
-</tr>
-<tr>
-    <td> Wed, Nov 25 </td>
-    <td><strong>NO CLASS THANKSGIVING HOLIDAY</strong></td>
-</tr>
-<tr>
-    <td>Wed, Dec 2</td>
-    <td>Make sure you have <strong>scheduled a career coaching appointment with the Wasserman Center</strong> BEFORE this date to receive feedback on your cover letter and resume. To schedule a 30-minute appointment with a career counselor, log in to NYU CareerNet. Under "Shortcuts" on the right hand side, select "Request a Career Coaching Appointment."<br><br><strong>Class Critique: Final Resume and Cover Letter Due (post PDF on your class website from about or contact)<br>
-    Class Critique: Final LinkedIn Profile Due (post link from your class website from about or contact.)<br>
-    Class Critique: <a href="dm4003_senior_project_end_of_semester_deliverables.md">Final Portfolio Website Due</a></strong>
-    </td> 
-</tr>
-<tr>
-    <td>Wed, Dec 9</td>
-     <td><a href="dm4003_senior_project_website.md">Personal Kanban / Weekly Project Website Updates</a>
-     <strong><a href="dm4003_senior_project_end_of_semester_deliverables.md">Deliverables for Senior Project Catalog Due</a><br>Class Critique: <a href="dm4003_senior_project_groups.md">Group B</a> 10 Minute Project Presentations w/ Gold Version Demo Due</strong><br>
-     </td>
-</tr>
-<tr>
-    <td>Wed, Dec 23</td>
-     
-
-     <td><a href="http://goo.gl/forms/sYzLdYwNWF">Senior Exit Interview Survey</a><br>
-<a href="dm4003_senior_project_end_of_semester_deliverables.md">
-Deliverables For IDM Promotion and Archive<br>
-End of Semester Presentation (exported as pdf)<br>
-Final Self-Assessment Due (pdf)<br>
-Letter to Next Cohort Due (pdf)<br>
-Portfolio Website</a></td>
-</tr>
-
-
-
-
-<tr>
-    <td>Wed, May 06</td>
-    <td>
-    <strong>Read Do The Work!</strong> by Steven Pressfield, write a reading response on your process website, and be prepared to discuss
+    <a href="dm4003_senior_project_website.md">Personal Kanban / Weekly Project Website Updates</a></td> <strong>Read Do The Work!</strong> by Steven Pressfield, write a reading response on your process website, and be prepared to discuss
     <ul>
     <li>3 end p.86-98</li>
     </ul>
@@ -216,22 +183,74 @@ Portfolio Website</a></td>
     <li>9 Sell Out p.158-179</li>
     <li>10 Stick Around p.180-199</li>
     </ul>
-    <strong>Class Critique: Senior Project – Gold Version Due</strong><br>
-    
+</tr>
+<tr>
+    <td>Wed, Nov 11</td>
+    <td>
+    <ul>
+    <li>
+    <strong>Class Critique: <a href="dm4003_senior_project_groups.md"></a> 10 Minute Project Presentations w/ Beta Version Demo Due</strong></li>
+    <li><a href="dm4003_senior_project_website.md">Personal Kanban / Weekly Project Website Updates</a></li>
+ </td>
+</tr>
+
+<tr>
+    <td>Wed, Nov 18 </td>
+     <td>
+     <li><strong>Class Critique: 10 Minute Project Presentations Drafts from all students</strong>
+     <br>Use the <a href="dm4003_senior_project_plan.md">project plan</a> sections as a template for your visual presentation. The project plan is just a guideline for information for your presentation. You should present a visual presentation using powerpoint, keynote, prezi, pdf, video, image files, etc.</li>><strong>
+      <li><a href="dm4003_senior_project_website.md">Personal Kanban / Weekly Project Website Updates</a></td>
+</tr>
+<tr>
+    <td> Wed, Nov 25 </td>
+    <td><strong>NO CLASS THANKSGIVING HOLIDAY</strong></td>
+</tr>
+<tr>
+    <td>Wed, Dec 2</td>
+    <td>
+    <ul>
+    <li>Make sure you have <strong>scheduled a career coaching appointment with the Wasserman Center</strong> BEFORE this date to receive feedback on your cover letter and resume. To schedule a 30-minute appointment with a career counselor, log in to NYU CareerNet. Under "Shortcuts" on the right hand side, select "Request a Career Coaching Appointment."</li>
+    <li><strong>Class Critique: Final Resume and Cover Letter Due (post PDF on your class website from about or contact)</li>
+    <li>
+    Class Critique: Final LinkedIn Profile Due (post link from your class website from about or contact.)</li>
+    <li>Class Critique: <a href="dm4003_senior_project_end_of_semester_deliverables.md">Final Portfolio Website Due</a></strong></li>
+    </ul>
     </td> 
 </tr>
 <tr>
-    <td>Tue, May 05 – Thu, May 7</td>
-    <td><i>Reading Days for NYU School of Engineering Undergrad Classes</i></td> 
+    <td>Wed, Dec 9</td>
+     <td>
+     <ul>
+     <li><a href="dm4003_senior_project_website.md">Personal Kanban / Weekly Project Website Updates</a>
+     <li><strong><a href="dm4003_senior_project_end_of_semester_deliverables.md">Deliverables for Senior Project Catalog Due</a></li>
+     <li>End of Semester Public Presentations</a></strong> MAGNET 811 (Attendance is MANDATORY)</li>
+     <li>Class Critique: 10 Minute Project Presentations w/ Gold Version Demo Due</strong></li>
+     </ul>
+     </td>
 </tr>
 <tr>
-    <td>Wed, May 13<br>2-6pm EST</td>
-    <td><strong><a href="dm4003_senior_project_end_of_semester_deliverables.md">End of Semester Public Presentations</a></strong> MAGNET 811 (Attendance is MANDATORY for the entire 4 hours!)<br> <a href="dm4003_senior_project_end_of_semester_deliverables.md">End of Semester PDF Due</a></td>
+    <td>Wed, Dec 16</td>
+    <td><i>Reading Day for NYU School of Engineering Undergrad Classes</i></td> 
 </tr>
 <tr>
-<td>Mon, May 11-Fri, May 15</td>
+    <td>Wed, Dec 23</td>
+    <td>
+     <ul>
+     <li>
 
+     <td><a href="http://goo.gl/forms/sYzLdYwNWF">Senior Exit Interview Survey</a> </li>
+     <li><a href="dm4003_senior_project_end_of_semester_deliverables.md">
+Deliverables For IDM Promotion and Archive</li>
+<li>End of Semester Presentation (exported as pdf)</li>
+<li>Final Self-Assessment Due (pdf)</li>
+<li>Letter to Next Cohort Due (pdf)</li>
+<li>Portfolio Website</a></li>
+</ul>
+</td>
 </tr>
+
+
+
 </table>
 
 
