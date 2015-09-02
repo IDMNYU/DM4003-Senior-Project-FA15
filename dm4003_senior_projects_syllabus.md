@@ -288,7 +288,6 @@ The following books are available for purchase in the NYU library. I highly sugg
 
 * [The War of Art: Break Through the Blocks and Win Your Inner Creative Battles] (http://www.amazon.com/War-Art-Through-Creative-Battles/dp/0446691437/) by Steven Pressfield<br>If you like *Do The Work* by Steven Pressfield, which is pretty much a distillation of the principles in The War of Art, also by Steven Pressfield, I highly suggest you acquire this one as well.
 
-### [Course Calendar](https://basecamp.com/3029193/calendar)
 
 ### [PROJECT PLAN](dm4003_senior_project_plan.md)
 See Appendix
