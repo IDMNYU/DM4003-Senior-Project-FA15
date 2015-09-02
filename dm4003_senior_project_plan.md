@@ -23,7 +23,7 @@
     <li>Your first and last name</li>
     <li>Project Title</li>
     <li>Senior Project in Digital Media</li>
-    <li>Duff</li>
+    <li>Bennett</li>
     <li>New York University</li>
     <li>Spring 2015</li></td>
 </tr>
