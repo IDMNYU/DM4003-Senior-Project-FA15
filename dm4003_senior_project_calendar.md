@@ -113,10 +113,13 @@
 </tr>
 <tr>
     <td>Wed, Sept 30</td>
-     <td><a href="dm4003_senior_project_website.md">Personal Kanban / Weekly Project Website Updates</a><br></td> 
-     <td> Draft of milestone calendar due, including subtasks. Submit PDF via Process site. </td><br>
-    <td> Draft of competitive and comparitive analysis due. Submit PDF via Process site. </td><br>
-    <td>IN CLASS WORKSHOP: Share your Portfolio Website Draft with classmates for feedback.<br><br><a href="dm4003_senior_project_website.md">Personal Kanban / Weekly Project Website Updates</a><br>
+     <td>
+     <ul>
+     <li><a href="dm4003_senior_project_website.md">Personal Kanban / Weekly Project Website Updates</a><br></li>
+     <li> Draft of milestone calendar due, including subtasks. Submit PDF via Process site. </li><br>
+    <li> Draft of competitive and comparitive analysis due. Submit PDF via Process site. </li><br>
+    <li>IN CLASS WORKSHOP: Share your Portfolio Website Draft with classmates for feedback.</li><br>
+    <li><a href="dm4003_senior_project_website.md">Personal Kanban / Weekly Project Website Updates</a></li><br><br>
     </td> 
     
 </tr>
