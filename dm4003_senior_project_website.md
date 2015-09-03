@@ -47,7 +47,7 @@ Spencer Hargiss’ project website is a good example, http://www.spencerhargiss.
 ### What have you done this past week for your project?
 (which should essentially be your done column transcribed from your personal kanban)
 * *Weekly Project Progress* 
- * at least, 1 post per week DUE 10am on Wednesdays. 
+ * at least, 2 posts per week DUE 10am on Wednesdays. 
 * (or even better) *Daily Project Progress* 
  * at least, 1 post per day for at least 4 or 5 days of the week.
 * If you do not do anything for the week, write **I did NOTHING for this project this week.**
