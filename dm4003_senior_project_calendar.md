@@ -91,7 +91,7 @@
         </ul>
     <li><strong>Class Critique: 10 Minute Project Status Presentations from all students in the class (IF your project has changed)</li>
     <li><strong><a href="dm4003_senior_project_plan.md">Project Plan 1st Draft DUE</a></strong></li>
-    <li>Discuss the <i>Mac is Not a Typewriter</i> Excerpts</li>
+    <li> Send me links to your work and previous projects. </li>
     <li>Discuss assigned chapters in <i>Show Your Work!</i></li>
     <li>Discuss assigned chapters in <i>Do The Work!</i></strong> by Steven Pressfield</li>
     <li><a href="dm4003_senior_project_website.md">Personal Kanban / Weekly Project Website Updates</a></li>
