@@ -29,9 +29,6 @@ Create a dropbox link with the following contents:
   * (for lyndsey only) mp3s of all the episodes
   
 
-### END OF SEMESTER PRESENTATION
-* Export as a pdf and post on basecamp
-
 
 ### END OF SEMESTER PUBLIC PRESENTATIONS
 
@@ -46,6 +43,19 @@ Use the project plan guidelines as a guide for content. Your public presentation
      * 10 minutes of Q&A 
      (or a combination thereof)
      for 20 minutes total. 
+
+#### Tips for your presentation
+
+• [THOUGHTS ON PUBLIC SPEAKING BY ZACH HOLMAN](http://speaking.io/) Click the links!!!
+
+• Create a 5-7 minutes presentation (pdf, powerpoint, keynote, quicktime, etc.)
+
+• Decide whether or not you want to mirror your presentation or not (if you're using presentation tools - ie, notes)
+Get familiar with your display preferences!!
+
+• If you have sound during your presentation, set your external sound preferences in system preferences to Crestron.
+
+• PRACTICE PRACTICE PRACTICE
 
 
 ### FINAL SELF-ASSESSMENT
