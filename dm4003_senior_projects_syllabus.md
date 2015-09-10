@@ -189,6 +189,13 @@ The performance and attendance of the student has been less than adequate. The w
 ###### F. Unacceptable (59 & Below)
 The performance & attendance of the student has not met course requirements. The work shows no overall understanding of the research, design, and/or prototyping phase(s) on many levels or either a severe lack of interest.
 
+###  Educational Accessibility Statement
+
+NYU-Polytechnic is committed to assuring equal educational opportunity and full participation for all students.  The mission of the Office for Students with Disabilities is to provide individuals with learning differences (a.ka. disabilities) the same access to programs and activities as other students.  We assist students to maximize their potential while helping them develop and maintain independence.
+
+Students who believe they are eligible for course accommodations under the ADA or Section 504 or have had accommodations please contact New York University’s Moses Center for Students with Disabilities at 212-998-4980 or mosescsd@nyu.edu.  You must be registered with CSD to receive accommodations.  Information about the Moses Center can be found at http://www.nyu.edu/csd. The Moses Center is located at 726 Broadway on the 2nd floor. 
+
+Faculty can provide course accommodations/modifications only after receipt of an approved accommodations letter from the Moses Center for Students with Disabilities. Accommodation letters can be provided to qualified students at any time during the semester, but grades earned before the faculty receives the letter cannot be changed.
 
 ### TECHNOLOGY USE IN THE CLASSROOM
 
