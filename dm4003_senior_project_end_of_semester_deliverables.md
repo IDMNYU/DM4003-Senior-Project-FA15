@@ -50,7 +50,7 @@ Use the project plan guidelines as a guide for content. Your public presentation
 
 • [Advice from TED's Speaker coaches](http://blog.ted.com/a-ted-speaker-coach-shares-11-tips-for-right-before-you-go-on-stage/?utm_campaign=social&utm_medium=referral&utm_source=facebook.com&utm_content=ted-blog&utm_term=humanities)
 
-• Create a 5-7 minutes presentation (pdf, powerpoint, keynote, quicktime, etc.)
+• Create a 5-7 minutes presentation (pdf, powerpoint, keynote, quicktime, etc.). You will be timed.
 
 • Decide whether or not you want to mirror your presentation or not (if you're using presentation tools - ie, notes)
 Get familiar with your display preferences!!

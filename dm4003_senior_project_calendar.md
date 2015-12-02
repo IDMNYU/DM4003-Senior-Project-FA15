@@ -213,10 +213,10 @@
     <td>
     <ul>
     <li>Make sure you have <strong>scheduled a career coaching appointment with the Wasserman Center</strong> BEFORE this date to receive feedback on your cover letter and resume. To schedule a 30-minute appointment with a career counselor, log in to NYU CareerNet. Under "Shortcuts" on the right hand side, select "Request a Career Coaching Appointment."</li>
-    <li><strong>Class Critique: Final Resume and Cover Letter Due (post PDF on your class website from about or contact)</li>
+    <li><strong>Class Critique: Final Resume and Cover Letter Due (post PDF on your class website from about or email to me)</li>
     <li>
     Class Critique: Final LinkedIn Profile Due (post link from your class website from about or contact.)</li>
-    <li>Class Critique: <a href="dm4003_senior_project_end_of_semester_deliverables.md">Final Portfolio Website Due</a></strong></li>
+   
     </ul>
     </td> 
 </tr>
@@ -225,9 +225,10 @@
      <td>
      <ul>
      <li><a href="dm4003_senior_project_website.md">Personal Kanban / Weekly Project Website Updates</a>
-     <li><strong><a href="dm4003_senior_project_end_of_semester_deliverables.md">Deliverables for Senior Project Catalog Due</a></li>
+    
      <li>End of Semester Public Presentations</a></strong> MAGNET 811 (Attendance is MANDATORY)</li>
      <li>Class Critique: 10 Minute Project Presentations w/ Gold Version Demo Due</strong></li>
+      <li> <a href="dm4003_senior_project_end_of_semester_deliverables.md">Final Send me your portfolio website if you'd like feedback before submitting it</a></strong></li>
      </ul>
      </td>
 </tr>
@@ -241,10 +242,11 @@
      <td><a href="http://goo.gl/forms/sYzLdYwNWF">Senior Exit Interview Survey</a> </li>
      <li><a href="dm4003_senior_project_end_of_semester_deliverables.md">
 Deliverables For IDM Promotion and Archive</li>
+<a href="dm4003_senior_project_end_of_semester_deliverables.md">Portfolio Website Due</a></strong>email me the URL</li>
 <li>End of Semester Presentation (exported as pdf)</li>
 <li>Final Self-Assessment Due (pdf)</li>
 <li>Letter to Next Cohort Due (pdf)</li>
-<li>Portfolio Website</a></li>
+
 </ul>
 </td>
 </tr>
