@@ -213,7 +213,7 @@
     <td>
     <ul>
     <li>Make sure you have <strong>scheduled a career coaching appointment with the Wasserman Center</strong> BEFORE this date to receive feedback on your cover letter and resume. To schedule a 30-minute appointment with a career counselor, log in to NYU CareerNet. Under "Shortcuts" on the right hand side, select "Request a Career Coaching Appointment."</li>
-    <li><strong>Class Critique: Final Resume and Cover Letter Due (post PDF on your class website from about or email to me)</li>
+    
     <li>
     Class Critique: Final LinkedIn Profile Due (post link from your class website from about or contact.)</li>
    
